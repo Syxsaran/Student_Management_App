@@ -1,0 +1,17 @@
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\bin\Debug\net6.0-windows\Student management appilcation.exe
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\bin\Debug\net6.0-windows\Student management appilcation.deps.json
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\bin\Debug\net6.0-windows\Student management appilcation.runtimeconfig.json
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\bin\Debug\net6.0-windows\Student management appilcation.dll
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\bin\Debug\net6.0-windows\ref\Student management appilcation.dll
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\bin\Debug\net6.0-windows\Student management appilcation.pdb
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.csproj.AssemblyReference.cache
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student_management_appilcation.Form1.resources
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.csproj.GenerateResource.cache
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.AssemblyInfoInputs.cache
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.AssemblyInfo.cs
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.csproj.CoreCompileInputs.cache
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.dll
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\ref\Student management appilcation.dll
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.pdb
+C:\Users\saran\source\repos\Student management appilcation\Student management appilcation\obj\Debug\net6.0-windows\Student management appilcation.genruntimeconfig.cache
